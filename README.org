@@ -17,7 +17,7 @@
 
    For block-embed, you can change the content of any embed blocks and all the blocks which are derived from one original block will be synchronized. In roam-block, embed blocks will be synchronized at real time.
 
-I plan to use this to help me learn to code via using literate programming to try to understand it.
+I plan to use this code to help me learn to code via using literate programming to try to understand it.
 
 ** Demos
 
